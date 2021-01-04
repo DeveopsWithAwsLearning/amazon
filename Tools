@@ -4,4 +4,7 @@ Git
 Maven
 Tomcat
 SonarQube
-Jenkins
+#Jenkins
+docker
+nexus
+#####:
