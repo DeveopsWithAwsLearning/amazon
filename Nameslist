@@ -1,3 +1,4 @@
+Updated directly in remote uat branch 
 Linuxcommands
 ShellScript
 Git
@@ -5,3 +6,5 @@ Maven
 Tomcat
 SonarQube
 Jenkins
+Nexus
+Docker
