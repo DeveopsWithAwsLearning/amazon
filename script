@@ -3,4 +3,6 @@ script is used to work automatically
 script helps to maintain schedular time automatically
 sh bash bsh ksh are types
 script file now available in master
-After merging from feature1 through FAST-FORWARD MERGING 
+After merging from feature1 through FAST-FORWARD MERGING
+Now script file is updated to check --> REBASE COMMAND
+script is in rebase2  
